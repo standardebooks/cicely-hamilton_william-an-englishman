@@ -28,48 +28,46 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">William, an Englishman</dc:title>
 		<meta property="file-as" refines="#title">William, an Englishman</meta>
+		<meta property="dcterms:alternative" refines="#title">William—An Englishman</meta>
 		<dc:subject id="subject-1">World War, 1914-1918 -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008113819</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta id="collection" property="belongs-to-collection">Prix Femina—Vie Heureuse Winners</meta>
+		<meta property="collection-type" refines="#collection">series</meta>
+		<meta property="group-position" refines="#collection">1</meta>
+		<dc:description id="description">A young activist couple seek peace and seclusion during their honeymoon, but the unexpected arrival of foreign soldiers change the couple’s life for the worse.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;William Tully is an unremarkable english clerk, coursing through his mundane and well-ordered life by doing what others tell him to do and trying to live up to their expectations. When his mother passes away suddenly, William finally decides to take control of his own life and seeks to discover what is his purpose in this world with his new-found freedom.&lt;/p&gt;
+			&lt;p&gt;Inspired by a coworker’s advice, William becomes immersed in political activism and eventually meets Griselda Watkins, a young suffragette, during a meeting with his group. The two protesters fall in love with each other and later get married. William and Griselda choose to spend their honeymoon in the Belgian Alpennes during the summer of 1914, away from everything and everyone they know in England.&lt;/p&gt;
+			&lt;p&gt;The looming shadow of World War One draws nearer with each day the young couple spend in Belgium. William and Griselda may have suffered hostility and persecution while campaigning for their shared beliefs, but nothing could ever prepare them to face the horrors of war in a foreign country.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/cicely-hamilton"&gt;Cicely Hamilton&lt;/a&gt; wrote &lt;i&gt;William, an Englishman&lt;/i&gt; drawing from her experiences while working in an army hospital during the Great War, reflecting on the naivity of youth, the senseless cruelty brought forward by the conflict and the severe and irremediable disruption in the ordinary life of the people caught in the crossfire.&lt;/p&gt;
+			&lt;p&gt;First published in 1919, &lt;i&gt;William, an Englishman&lt;/i&gt; is notable for the raw emotion present in its writing, as well as being a satirical critique influenced by the aftermath of World War One and the rise of new social and political movements such as pacifism and socialism.&lt;/p&gt;
+			&lt;p&gt;The novel eventually became the first recipient of the &lt;a href="https://standardebooks.org/collections/prix-femina-vie-heureuse-winners"&gt;Prix Femina—Vie Heureuse&lt;/a&gt; prize in 1920 due to its literary merit and for helping to illustrate the spirit and character of England to french readers of the time.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/53032</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/williamanenglish00hamiiala</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/William_%E2%80%93_an_Englishman</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/cicely-hamilton_william-an-englishman</meta>
 		<dc:creator id="author">Cicely Hamilton</dc:creator>
 		<meta property="file-as" refines="#author">Hamilton, Cicely</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Cicely Mary Hamilton</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Cicely_Hamilton</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n81127746</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n81127746</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Eliphalet Frazer Andrews</dc:contributor>
+		<meta property="file-as" refines="#artist">Andrews, Eliphalet Frazer</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Eliphalet_Frazer_Andrews</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81127746</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
+		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_2_URL</meta>
-		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
-		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Sergio Tellez</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Tellez, Sergio</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
