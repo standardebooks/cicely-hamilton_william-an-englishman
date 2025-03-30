@@ -26,10 +26,10 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">William—an Englishman</dc:title>
-		<meta property="file-as" refines="#title">William—an Englishman</meta>
-		<meta property="dcterms:alternative" refines="#title">William, an Englishman</meta>
-		<meta property="dcterms:alternative" refines="#title">William: an Englishman</meta>
+		<dc:title id="title">William—An Englishman</dc:title>
+		<meta property="file-as" refines="#title">William—An Englishman</meta>
+		<meta property="dcterms:alternative" refines="#title">William, An Englishman</meta>
+		<meta property="dcterms:alternative" refines="#title">William: An Englishman</meta>
 		<dc:subject id="subject-1">World War, 1914-1918 -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008113819</meta>
@@ -42,8 +42,8 @@
 			&lt;p&gt;William Tully is an unremarkable english clerk, coursing through his mundane and well-ordered life by doing what others tell him to do and trying to live up to their expectations. When his mother passes away suddenly, William finally decides to take control of his own life and seeks to discover his purpose in this world with his new-found freedom.&lt;/p&gt;
 			&lt;p&gt;Inspired by a coworker’s advice, William becomes immersed in political activism and eventually meets Griselda Watkins, a young suffragette, during a meeting with his group. The two protesters fall in love with each other and later get married. William and Griselda choose to spend their honeymoon in the Belgian Ardennes during the summer of 1914, away from everything and everyone they know in England.&lt;/p&gt;
 			&lt;p&gt;The looming shadow of World War I draws nearer with each day the young couple spend in Belgium. William and Griselda may have suffered hostility and persecution while campaigning for their shared beliefs, but nothing could ever prepare them to face the horrors of war in a foreign country.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/cicely-hamilton"&gt;Cicely Hamilton&lt;/a&gt; wrote &lt;i&gt;William—an Englishman&lt;/i&gt; drawing from her experiences while working in an army hospital during the Great War, reflecting on the naivity of youth, the senseless cruelty brought forward by the conflict and the severe and irremediable disruption in the ordinary life of the people caught in the crossfire.&lt;/p&gt;
-			&lt;p&gt;First published in 1919, &lt;i&gt;William—an Englishman&lt;/i&gt; is notable for the raw emotion present in its writing, as well as being a satirical critique influenced by the aftermath of World War One and the rise of new social and political movements such as pacifism and socialism.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/cicely-hamilton"&gt;Cicely Hamilton&lt;/a&gt; wrote &lt;i&gt;William—An Englishman&lt;/i&gt; drawing from her experiences while working in an army hospital during the Great War, reflecting on the naivity of youth, the senseless cruelty brought forward by the conflict and the severe and irremediable disruption in the ordinary life of the people caught in the crossfire.&lt;/p&gt;
+			&lt;p&gt;First published in 1919, &lt;i&gt;William—An Englishman&lt;/i&gt; is notable for the raw emotion present in its writing, as well as being a satirical critique influenced by the aftermath of World War One and the rise of new social and political movements such as pacifism and socialism.&lt;/p&gt;
 			&lt;p&gt;The novel eventually became the first recipient of the &lt;a href="https://standardebooks.org/collections/prix-femina-vie-heureuse-winners"&gt;Prix Femina—Vie Heureuse&lt;/a&gt; prize in 1920 due to its literary merit and for helping to illustrate the spirit and character of England to french readers of the time.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
