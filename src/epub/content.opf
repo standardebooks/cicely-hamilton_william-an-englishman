@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/cicely-hamilton/william-an-englishman</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-03-31T02:10:55Z</dc:date>
+		<meta property="dcterms:modified">2025-03-31T02:10:55Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -37,20 +37,20 @@
 		<meta id="collection" property="belongs-to-collection">Prix Femina—Vie Heureuse Winners</meta>
 		<meta property="collection-type" refines="#collection">series</meta>
 		<meta property="group-position" refines="#collection">1</meta>
-		<dc:description id="description">A young activist couple seek peace and seclusion during their honeymoon, but the unexpected arrival of foreign soldiers change the couple’s life for the worse.</dc:description>
+		<dc:description id="description">A young activist couple’s lives turn for the worse when the unexpected arrival of foreign soldiers interrupts their honeymoon.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;William Tully is an unremarkable english clerk, coursing through his mundane and well-ordered life by doing what others tell him to do and trying to live up to their expectations. When his mother passes away suddenly, William finally decides to take control of his own life and seeks to discover his purpose in this world with his new-found freedom.&lt;/p&gt;
-			&lt;p&gt;Inspired by a coworker’s advice, William becomes immersed in political activism and eventually meets Griselda Watkins, a young suffragette, during a meeting with his group. The two protesters fall in love with each other and later get married. William and Griselda choose to spend their honeymoon in the Belgian Ardennes during the summer of 1914, away from everything and everyone they know in England.&lt;/p&gt;
-			&lt;p&gt;The looming shadow of World War I draws nearer with each day the young couple spend in Belgium. William and Griselda may have suffered hostility and persecution while campaigning for their shared beliefs, but nothing could ever prepare them to face the horrors of war in a foreign country.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/cicely-hamilton"&gt;Cicely Hamilton&lt;/a&gt; wrote &lt;i&gt;William—An Englishman&lt;/i&gt; drawing from her experiences while working in an army hospital during the Great War, reflecting on the naivity of youth, the senseless cruelty brought forward by the conflict and the severe and irremediable disruption in the ordinary life of the people caught in the crossfire.&lt;/p&gt;
-			&lt;p&gt;First published in 1919, &lt;i&gt;William—An Englishman&lt;/i&gt; is notable for the raw emotion present in its writing, as well as being a satirical critique influenced by the aftermath of World War One and the rise of new social and political movements such as pacifism and socialism.&lt;/p&gt;
-			&lt;p&gt;The novel eventually became the first recipient of the &lt;a href="https://standardebooks.org/collections/prix-femina-vie-heureuse-winners"&gt;Prix Femina—Vie Heureuse&lt;/a&gt; prize in 1920 due to its literary merit and for helping to illustrate the spirit and character of England to french readers of the time.&lt;/p&gt;
+			&lt;p&gt;William Tully is an unremarkable English clerk, passing his mundane and well-ordered life by doing what others tell him and trying to live up to their expectations. But when his mother passes away suddenly, William finally decides to take control of his own life and discover his purpose in the world.&lt;/p&gt;
+			&lt;p&gt;Inspired by a coworker’s advice, William becomes immersed in political activism and eventually meets Griselda Watkins, a young suffragette. The two fall in love and get married, and decide to spend their honeymoon in the Belgian Ardennes during the summer of 1914, away from everything and everyone they know in England.&lt;/p&gt;
+			&lt;p&gt;The looming shadow of World War I draws nearer with each day. William and Griselda may have suffered hostility and persecution while campaigning for their shared beliefs, but nothing could ever prepare them to face the horrors of war in a foreign country.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/cicely-hamilton"&gt;Cicely Hamilton&lt;/a&gt; wrote &lt;i&gt;William—An Englishman&lt;/i&gt; by drawing from her experiences while working in an army hospital during the Great War. The novel is a a reflection on the naivete of youth, the senseless cruelty wrought by the conflict, and the irremediable disruption to the lives of the ordinary people caught in the crossfire.&lt;/p&gt;
+			&lt;p&gt;First published in 1919, &lt;i&gt;William—An Englishman&lt;/i&gt; is notable for being a satirical critique influenced by the aftermath of World War I and the rise of new social and political movements like pacifism and socialism.&lt;/p&gt;
+			&lt;p&gt;The novel eventually became the first recipient of the &lt;a href="https://standardebooks.org/collections/prix-femina-vie-heureuse-winners"&gt;Prix Femina—Vie Heureuse&lt;/a&gt; prize in 1920 for helping to illustrate the spirit and character of England to contemporary French readers.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/53032</dc:source>
 		<dc:source>https://archive.org/details/williamenglishma00hamiiala</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">62528</meta>
+		<meta property="se:reading-ease.flesch">58.45</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/William_%E2%80%93_an_Englishman</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/cicely-hamilton_william-an-englishman</meta>
 		<dc:creator id="author">Cicely Hamilton</dc:creator>
@@ -75,6 +75,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
